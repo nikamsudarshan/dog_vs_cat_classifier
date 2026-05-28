@@ -1,6 +1,6 @@
 # 🐶🐱 Dog vs Cat Classifier (Transfer Learning)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dog_vs_cat_classifier/blob/main/Dog_vs_Cat_Classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikamsudarshan/dog_vs_cat_classifier/blob/main/Dog_vs_Cat_Classifier.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Transfer Learning](https://img.shields.io/badge/Architecture-MobileNetV2-brightgreen)
